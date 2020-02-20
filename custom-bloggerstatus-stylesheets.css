@@ -1,0 +1,118 @@
+/*
+
+Stylesheet for my New App for Bloggerstatus
+created by Lucas Gatsas
+http://www.lucasgatsas.ch 
+Mi. 9. Dezember 2015 
+07:31:47; 
+
+
+Theme: Bloggerstatus
+Author: Lucas Gatsas 
+Company Name: Chiclistly App
+$;
+
+*/
+
+/* $$$$ This is the Body elemets for Bloggerstatus */
+body {
+    background: white;
+}
+.footer-code.footer-module {
+    
+}
+/* $$$$ Stylesheet for the Header of the App */
+
+
+header.header.dark-bg {
+    background: black;
+}
+
+
+/*logo */
+
+h1.logo-text {
+    font-size: 44px;
+}
+
+
+
+/* $$$$ stylesheet for the buttons of the Newsletter */
+button.button.newsletter-button.btn.btn-primary {
+    background: black;
+}
+
+/* $$$$ Stylesheets for differents Buttons*/
+
+button#at-btn {
+    background: black;
+}a#submit {
+    border: 1px solid white;
+    background: black;
+}
+
+
+/* Grid alerts for the Login and Log Out */
+
+a.post-title {
+    color: black;
+}
+
+a.post-title:a {
+color: #cccccc ;
+}
+a.post-title:hover {
+color: #cccccc ;
+}
+a.post-title:a:hover {
+color: #cccccc ;
+}
+
+
+
+
+/* Links hover */
+
+
+
+h3.post-title.postHeading-module:hover {
+color: #cccccc;
+
+}
+h3.post-title.postHeading-module:a {
+color: #cccccc;
+
+}
+
+.zone-wrapper.post-heading:a {
+ color: #ccc;
+
+}
+
+.zone-wrapper.post-heading:hover {
+color: #ccc;
+
+}
+
+
+/* hover colors */
+
+	a:hover, .post-content 
+	.post-heading 
+	.post-title:hover, 
+	.upvoted .upvote-link, 
+	.downvoted .downvote-link, 
+	.upvoted .upvote, 
+	.downvoted .downvote, 
+	.toggle-actions-link, 
+	.post-meta a:hover,
+	 .action:hover, 
+	 .post-actions 
+	 .icon {
+    color: #666666;
+}
+
+a.post-title:hover {
+    color: #666;
+}
+
